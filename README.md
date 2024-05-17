@@ -15,3 +15,8 @@ Centralizados = Projeto -> commit --> Repositório Central;
 
 Distribuido = Projeto -> commit -> R. Local ->
 push -> R. Remoto;
+
+
+commit = Transferir o projeto p/ Repositório 
+
+push = Puxar do R. Local p/ o Remoto
