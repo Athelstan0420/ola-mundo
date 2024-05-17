@@ -5,9 +5,9 @@
 
 Nessa aula eu aprendi o que é o Git e o que é GitHub, a diferença entre eles e como  utilizá-los.
 
-Git = soft de versionamento / máquina do tempo / Repositório Local;
+Git(2005) = soft de versionamento / máquina do tempo / Repositório Local;
 
-GitHub = Repositório Remoto;
+GitHub(2008) = Repositório Remoto;
 
 E o que são Repositórios Centralizados e Distribuído.
 
